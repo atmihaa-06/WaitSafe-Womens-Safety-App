@@ -1,4 +1,4 @@
-# WaitSafe 🛡️📱
+# WaitSaf 🛡️📱
 
 ### Proactive Journey Monitoring and Emergency Response Platform
 
