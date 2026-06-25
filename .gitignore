@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+*.db
+
+*.mp4
+Demo_vdo.mp4
